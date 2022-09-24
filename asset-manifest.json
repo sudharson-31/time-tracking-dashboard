@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/time-tracking-dashboard/static/css/main.b2b53791.css",
-    "main.js": "/time-tracking-dashboard/static/js/main.ea9d9d57.js",
+    "main.js": "/time-tracking-dashboard/static/js/main.5e167912.js",
     "index.html": "/time-tracking-dashboard/index.html",
     "main.b2b53791.css.map": "/time-tracking-dashboard/static/css/main.b2b53791.css.map",
-    "main.ea9d9d57.js.map": "/time-tracking-dashboard/static/js/main.ea9d9d57.js.map"
+    "main.5e167912.js.map": "/time-tracking-dashboard/static/js/main.5e167912.js.map"
   },
   "entrypoints": [
     "static/css/main.b2b53791.css",
-    "static/js/main.ea9d9d57.js"
+    "static/js/main.5e167912.js"
   ]
 }
